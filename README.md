@@ -17,26 +17,33 @@ cd wallpapers
 
 
 
-**Astro**
+**ANIME**
 
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1353197.png)
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1326986.jpeg)
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1352214.png)
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1236729.jpg)
+
+**GAMES**
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1347439.jpeg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1299271.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1353734.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1356733.jpeg)
+
+**GRUVBOX**
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/gruv-kanji.png)
 ![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/gruvbox_astro.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/looking-for.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/nasa.png)
 
-**Joyboy**
+**VARIETY**
 
-![Wallppers banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/joyboy.png)
-
-**Anime Girls**
-
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/00326.jpg)
-
-**Cherry MX**
-
-![Wallpaper banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/cherry.jpg)
-
-**Yae Sakura**
-
-![Wallpaper banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/yaesakura.png)
-
-**Persona 5**
-
-![Wallpaper banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/persona5.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/429294.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/6301.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/968383.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/girlssunny.jpg)
