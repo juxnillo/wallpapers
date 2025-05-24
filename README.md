@@ -17,17 +17,13 @@ cd wallpapers
 
 **ANIME**
 
-| Wallpaper 1 | Wallpaper 2 | Wallpaper 3 | Wallpaper 4 |
-|-------------|-------------|-------------|-------------|
-| ![wp1](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1353197.png) | ![wp2](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1326986.jpeg) | ![wp3](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1352214.png) | ![wp4](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1236729.jpg)
+![wp1](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1353197.png)
 
+![wp2](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1326986.jpeg) 
 
+![wp3](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1352214.png) 
 
-
-
-
-
-
+![wp4](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1236729.jpg)
 
 **GAMES**
 
