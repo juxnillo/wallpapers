@@ -1,17 +1,17 @@
 
-# Wallpapers Collection
+# My Wallpapers
 
-**Mi coleccion personal de wallpapers para desktop**
+**Desktop Edition**
 
-## 📥 Instalación
+## 📥 Installation
 
-Para clonar este repositorio y usar los wallpapers en tu ordenador, sigue estos pasos:
+Clone this repository with:
 
 ```bash
 git clone https://github.com/juxnillo/wallpapers.git
 cd wallpapers
 ```
-**Ejemplos:**
+**Examples:**
 
 
 
@@ -44,6 +44,16 @@ cd wallpapers
 ![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/looking-for.png)
 
 ![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/nasa.png)
+
+**NORD**
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_cartoon_of_a_fire_face.png)
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_cartoon_of_a_spider_man.jpg)
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_cartoon_of_a_woman_with_her_arms_out.png)
+
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_logo_with_white_text.png)
 
 **VARIETY**
 
