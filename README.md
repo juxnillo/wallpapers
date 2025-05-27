@@ -17,23 +17,23 @@ cd wallpapers
 
 **ANIME**
 
-![wp1](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1353197.png)
+![wp1](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/asuka.png)
 
-![wp2](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1326986.jpeg) 
+![wp2](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/luffy.png) 
 
-![wp3](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/1352214.png) 
+![wp3](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/ichigo.png) 
 
-![wp4](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1236729.jpg)
+![wp4](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/reze.jpg)
 
 **GAMES**
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1347439.jpeg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/castorice2.jpg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1299271.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/yinlin.jpeg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1353734.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/raidenei.png)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/1356733.jpeg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/sparkle.jpeg)
 
 **GRUVBOX**
 
@@ -47,20 +47,20 @@ cd wallpapers
 
 **NORD**
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_cartoon_of_a_fire_face.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/samurai%20nord.png)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_cartoon_of_a_spider_man.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/spiderman%20nord.jpg)
 
 ![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_cartoon_of_a_woman_with_her_arms_out.png)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/a_logo_with_white_text.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/NORD/linux%20friends.png)
 
 **VARIETY**
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/429294.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/wall.jpg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/6301.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/a_woman_holding_a_sword.jpg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/968383.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png)
 
 ![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/girlssunny.jpg)
