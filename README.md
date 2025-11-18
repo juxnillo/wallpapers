@@ -17,23 +17,23 @@ cd wallpapers
 
 **ANIME**
 
-![wp1](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/asuka.png)
+![wp1](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/Evangelion/asuka.png)
 
-![wp2](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/luffy.png) 
+![wp2](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/One-Piece/luffy.png)
 
-![wp3](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/ichigo.png) 
+![wp3](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/Bleach/ichigo.png) 
 
-![wp4](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/reze.jpg)
+![wp4](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/ANIME/Chainsaw-Man/reze.jpg)
 
 **GAMES**
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/castorice2.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/Honkai-StarRail/castorice2.jpg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/yinlin.jpeg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/Wuthering-Waves/yinlin.jpeg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/raidenei.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/Genshin-Impact/raidenei.png)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/sparkle.jpeg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/Honkai-StarRail/sparkle.jpeg)
 
 **GRUVBOX**
 
@@ -57,10 +57,10 @@ cd wallpapers
 
 **VARIETY**
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/wall.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/Vocaloid/mikucrazy.jpg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/a_woman_holding_a_sword.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/Anime-Girls/a_woman_holding_a_sword.jpg)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/Anime-Landscapes/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png)
 
-![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/girlssunny.jpg)
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/Anime-Landscapes/girlssunny.jpg)
